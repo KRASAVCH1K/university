@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/djangoProject1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/university/9PR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/university/AIR3COURSE/9PR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/university/AIR3COURSE/ProjectAIR" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/university/AIR3COURSE/kursovaya" vcs="Git" />
+  </component>
+</project>
